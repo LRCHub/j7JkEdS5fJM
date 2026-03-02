@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Lower One's Eyes",
+  "base_artist": "Will Stetson",
+  "createdAt": "2026-03-02T03:11:45.260342Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lower One's Eyes",
+      "artist": "Will Stetson",
+      "has_synced": true,
+      "path": "select/01_Lower_One's_Eyes_Will_Stetson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "lower one's eyes",
+      "artist": "ぬゆり",
+      "has_synced": true,
+      "path": "select/02_lower_one's_eyes_ぬゆり.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lower one's eyes",
+      "artist": "Nuyuri;FloweR",
+      "has_synced": true,
+      "path": "select/03_Lower_one's_eyes_Nuyuri;FloweR.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lower One's Eyes",
+      "artist": "Trickle",
+      "has_synced": true,
+      "path": "select/04_Lower_One's_Eyes_Trickle.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lower one's eyes",
+      "artist": "Nuyuri",
+      "has_synced": true,
+      "path": "select/05_Lower_one's_eyes_Nuyuri.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lower One's Eyes (English Cover)【Will Stetson】「ロウワー」",
+      "artist": "Will Stetson",
+      "has_synced": false,
+      "path": "select/06_Lower_One's_Eyes_(English_Cover)【Will_Stetson】「ロウワー」_Will_Stetson.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lower one's eyes",
+      "artist": "NORISTRY",
+      "has_synced": false,
+      "path": "select/07_Lower_one's_eyes_NORISTRY.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lower One's Eyes",
+      "artist": "Will Stetson",
+      "has_synced": false,
+      "path": "select/pl_01_Lower_One's_Eyes_Will_Stetson.txt"
+    }
+  ]
+}
